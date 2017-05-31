@@ -1,12 +1,7 @@
----
-output: 
-  html_document: 
-    theme: cerulean
----
 How big can a planet get?
 ===========================
 
-With over 3500 exoplanets discovered in our galaxy, we can start to ask what planet size, mass and density 
+With over 3500 exoplanets discovered in our galaxy, we can start to ask what planet size, mass and density looks like for all planets.
 
 Plots all exoplanets and solar planets by planetary radius as a function of planetary mass, coloring by planet density.
 
